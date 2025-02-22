@@ -1,0 +1,1 @@
+apikey = "" # todo: put your openAi Api key in double quotes
